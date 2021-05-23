@@ -1,16 +1,37 @@
-# kisan_app
+# **Kisan App**
+The main purpose of this project is to provide information to the **Farmers** such as agricultural related news, government schemes for the farmers and how to apply for those schemes, crop information articles and to chat with **Agricultural Expert** in case of any doubts. **Admin** manages the users viz. **Farmer** and **Agricultural Expert**.
 
-A new Flutter project.
+You can download the [apk]() from here
 
-## Getting Started
+## Video Demo - [Watch Kisan App in action](https://www.youtube.com/ "Youtube videos")
 
-This project is a starting point for a Flutter application.
+## App Screenshots
+<p align="center">
+  <img src="screenshots/login.jpg" width="250" title="Login">
+  <img src="screenshots/register.jpg" width="250" title="Register">
+  <img src="screenshots/news.jpg" width="250" title="News">
+</p>
+<p align="center">
+  <img src="screenshots/scheme-list.jpg" width="250" title="Scheme">
+  <img src="screenshots/chat.jpg" width="250" title="Chat with Expert">
+  <img src="screenshots/crop-list.jpg" width="250" title="Crop List">
+</p>
+<p align="center">
+  <img src="screenshots/crop.jpg" width="250" title="Crop Info">
+  <img src="screenshots/video.jpg" width="250" title="Video Explanation">
+  <img src="screenshots/user.jpg" width="250" title="User Details">  
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## How to setup and run this project
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+My flutter version is **1.22.5** (before null safety). So, you have to make changes to the above code. 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Install the Flutter SDK and Android Studio (if not installed) and then create a fresh new project.
+    * A few resources to get you started if this is your first Flutter project:
+        - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+        - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)        
+    * For help getting started with Flutter, view our [online documentation](https://flutter.dev/docs), which offers tutorials, samples, guidance on mobile development, and a full API reference.
+2. Now, integrate Flutter project with Firebase - [Add Firebase to your Flutter app](https://firebase.google.com/docs/flutter/setup)
+3. Place the above files and directories in the same structure as above.
+4. Download the packages from the `pubspec.yaml` file.
+5. Run the `main.dart` file or **flutter run** command. Now, the app will build and start running on your mobile or emulator.
