@@ -1,7 +1,7 @@
 # **Kisan App**
 The main purpose of this project is to provide information to the **Farmers** such as agricultural related news, government schemes for the farmers and how to apply for those schemes, crop information articles and to chat with **Agricultural Expert** in case of any doubts. **Admin** manages the users viz. **Farmer** and **Agricultural Expert**.
 
-You can download the [apk]() from here
+This project is developed using Flutter SDK as frontend and Firebase as backend. You can download the apk from [here](https://drive.google.com/file/d/1t52hbVml8M1zMlaa04sg2OG7qeQetOoU/view?usp=sharing)
 
 ## Video Demo - [Watch Kisan App in action](https://www.youtube.com/ "Youtube videos")
 
@@ -24,7 +24,7 @@ You can download the [apk]() from here
 
 ## How to setup and run this project
 
-My flutter version is **1.22.5** (before null safety). So, you have to make changes to the above code. 
+My flutter version is **1.22.5** (before null safety). So, if you are using latest version, then you'll have to do the necessary changes in the above code.
 
 1. Install the Flutter SDK and Android Studio (if not installed) and then create a fresh new project.
     * A few resources to get you started if this is your first Flutter project:
