@@ -1,7 +1,7 @@
 # **Kisan App**
 The main purpose of this project is to provide information to the **Farmers** such as agricultural related news, government schemes for the farmers and how to apply for those schemes, crop information articles and to chat with **Agricultural Expert** in case of any doubts. **Admin** manages the users viz. **Farmer** and **Agricultural Expert**.
 
-This project is developed using Flutter SDK as frontend and Firebase as backend. You can download the apk from [here](https://drive.google.com/file/d/1t52hbVml8M1zMlaa04sg2OG7qeQetOoU/view?usp=sharing)
+This project is developed using Flutter and Firebase. You can download the apk from [here](https://drive.google.com/file/d/1t52hbVml8M1zMlaa04sg2OG7qeQetOoU/view?usp=sharing)
 
 ## Video Demo - [Watch Kisan App in action](https://www.youtube.com/ "Youtube videos")
 
