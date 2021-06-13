@@ -3,8 +3,6 @@ The main purpose of this project is to provide information to the **Farmers** su
 
 This project is developed using Flutter and Firebase. You can download the apk from [here](https://drive.google.com/file/d/1t52hbVml8M1zMlaa04sg2OG7qeQetOoU/view?usp=sharing)
 
-## Video Demo - [Watch Kisan App in action](https://www.youtube.com/ "Youtube videos")
-
 ## App Screenshots
 <p align="center">
   <img src="screenshots/login.jpg" width="250" title="Login">
